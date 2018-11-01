@@ -1,0 +1,2083 @@
+[{
+    "id": "p00sxqkd",
+    "live": false,
+    "type": "episode",
+    "tests": [],
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06d1ftf.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 1. Friends and Enemies",
+    "synopses": {
+      "large": "The brightest and best musketeers of the King's Regiment, Athos, Porthos and Aramis, are dispatched by Captain Treville to find a missing musketeer carrying important letters on behalf of King Louis. But Cardinal Richelieu has plans to increase his political power and seeks to sabotage the good reputation of the musketeers. \n\nMeanwhile, d'Artagnan travels from his family farm in Gascony to Paris to petition the king, but his peaceful plans are turned upside down when he is forced to find the musketeers and seek vengeance for the brutal murder of a loved one.\n\nWill d'Artagnan bring the murderer to justice and can the musketeers protect king and country? Or will the cardinal triumph with the help of the beautiful and dangerous Milady?",
+      "small": "The musketeers must protect king and country against evil forces seeking to destroy them.",
+      "medium": "Historical drama series. Athos, Porthos and Aramis are dispatched to find a missing musketeer. D'Artagnan seeks vengeance for the brutal murder of a loved one.",
+      "editorial": "The Musketeers fight for social justice – for honour, for love and for the thrill of it."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03sfv5z",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3451,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3187,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3187,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT59M0.640S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3512,
+      "first_broadcast": "9pm 19 Jan 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "19 Jan 2014",
+    "related_links": [],
+    "original_title": "Friends and Enemies",
+    "audio_described": false,
+    "editorial_title": "The Musketeers: Series 1-3",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2014-01-19T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Swashbuckling action",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03srg71",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01q7mk1.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 1: 2. Sleight of Hand",
+    "synopses": {
+      "large": "Notorious criminal Vadim seeks to make life unbearable for the authorities that have imprisoned him. When he engineers a full-scale riot it falls to the Musketeers to protect those whom he seeks to destroy. Will the Musketeers discover his plan in time and stop him from endangering the monarchy? And can the inexperienced d'Artagnan prove he is worthy of becoming a Musketeer or do his loyalties lie elsewhere?",
+      "small": "Can the Musketeers outwit an infamous criminal threatening the monarchy?",
+      "medium": "Historical drama series. Will the Musketeers stop a dangerous criminal threatening the monarchy and will the untested d'Artagnan prove his worth?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03srg6z",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3180,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2943,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2943,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT54M30S"
+      },
+      "guidance": {
+        "id": "WV",
+        "text": {
+          "large": "Contains scenes of moderate violence.",
+          "small": "Has guidance",
+          "medium": "Contains moderate violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3247,
+      "first_broadcast": "9pm 26 Jan 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "26 Jan 2014",
+    "related_links": [],
+    "original_title": "Sleight of Hand",
+    "audio_described": false,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2014-01-26T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03twrpn",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01qmgkt.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 3. Commodities",
+    "synopses": {
+      "large": "The Musketeers are dispatched to Le Havre to collect the infamous merchant trader and explorer Bonnaire and bring him back to Paris to be reprimanded for breaking France's trade treaty. This straightforward mission soon descends into a treacherous battle, as they must defeat Bonnaire's surprising number of enemies. \n\nAthos is forced to confront his past, which threatens to engulf him. Will he overcome his demons and help the Musketeers safely return to Paris, or will Bonnaire's enemies get the better of them?",
+      "small": "The Musketeers must escort a merchant trader back to Paris and thwart his enemies.",
+      "medium": "Historical drama series. The Musketeers must escort an infamous merchant trader and explorer safely back to Paris, whilst Athos is confronted by his past."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03twrp2",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3210,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2970,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2970,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 3272,
+      "first_broadcast": "9pm 2 Feb 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "2 Feb 2014",
+    "related_links": [],
+    "original_title": "Commodities",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2014-02-02T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03vcsl7",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01rp6fj.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 4. The Good Soldier",
+    "synopses": {
+      "large": "When Aramis's old friend Marsac, a former musketeer, unexpectedly returns to Paris, the musketeers are thrown into turmoil, fully aware that they should report him for desertion. His appearance coincides with the royal visit of the king's beloved sister and her husband, the Duke of Savoy, whom the musketeers must protect. \n\nMarsac believes he finally knows the truth behind the infamous massacre which killed his troop, and wants Aramis's help to prove it. Despite their misgivings, will the musketeers help and can they prevent Marsac exacting his own revenge?",
+      "small": "Aramis helps an old friend to uncover the truth behind a disastrous mission.",
+      "medium": "Historical drama series. Aramis finds his loyalty to the regiment tested when he agrees to help an old friend uncover the truth behind a disastrous mission."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06dcg05",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3205,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2966,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2966,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT54M55S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9 Feb 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "9 Feb 2014",
+    "related_links": [],
+    "original_title": "The Good Soldier",
+    "audio_described": false,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2014-02-09T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03wyv40",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01sg8w0.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 5. The Homecoming",
+    "synopses": {
+      "large": "Porthos wakes up from his drunken birthday celebrations with no memory of the night before. This would not be unusual, but for the dead body by his side... \n\nAfter being unjustly sentenced to death, he is abducted to the dangerous Court of Miracles, the streets of his childhood. In order to save him, the Musketeers must prove his innocence. Their investigations uncover a tangled web of divided loyalties and greed, and they risk their lives to infiltrate the unruly slums of the Court of Miracles before it is too late.",
+      "small": "The Musketeers must rescue Porthos when he is abducted to the dangerous Court of Miracles.",
+      "medium": "Historical drama. Porthos returns to the dangerous streets of his youth when he is unjustly charged with murder. It is up to the other Musketeers to rescue him."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03wyv32",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3166,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2930,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2930,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "54 mins",
+        "value": "PT54M16S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 23 Feb 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "23 Feb 2014",
+    "related_links": [],
+    "original_title": "The Homecoming",
+    "audio_described": false,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2014-02-23T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03xklh5",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01sw209.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 6. The Exiles",
+    "synopses": {
+      "large": "Aramis and d'Artagnan are thwarted in their task to transport a young woman and her baby from a village outside Paris to the palace when armed men abduct her baby. They must find out who she is exactly and why anyone would go to such lengths to kidnap her son. \n\nMeanwhile, the king's royal hunting party is disrupted by the sudden appearance of Louis' banished mother, Marie de Medici, seeking royal protection from an unknown assassin. The Musketeers must fight to protect both mother and baby while also loyally defending the throne.",
+      "small": "Aramis and the other Musketeers help a young mother rescue her abducted baby son.",
+      "medium": "Historical drama. Aramis goes out of his way to protect a young mother and her baby son while the king is reunited with his banished scheming mother, Marie de Medici."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03xklgf",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3211,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2971,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2971,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M1S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 2 Mar 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "2 Mar 2014",
+    "related_links": [],
+    "original_title": "The Exiles",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2014-03-02T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03yb56k",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01t9zty.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 1: 7. A Rebellious Woman",
+    "synopses": {
+      "large": "Following the tragic death of a young girl underneath the royal carriage, The Musketeers' investigations into her missing friend lead them into the world of a highborn and enlightened woman, Ninon, who really gets under Athos' skin. The Musketeers are forced to put aside their animosity towards the Cardinal when his life is placed in danger, and rescue this extraordinary woman.",
+      "small": "The Musketeers help save an enlightened woman condemned to death for witchcraft.",
+      "medium": "Historical drama. The Musketeers help save a woman condemned to death for witchcraft, whilst a mysterious papal envoy from Rome does his best to stop them."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03w567z",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3203,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2964,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2964,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT54M53S"
+      },
+      "guidance": {
+        "id": "WD",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 9 Mar 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "9 Mar 2014",
+    "related_links": [],
+    "original_title": "A Rebellious Woman",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2014-03-09T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03yvn8r",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01trhsf.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 1: 8. The Challenge",
+    "synopses": {
+      "large": "The Musketeers are tasked with bringing the fearsome Labarge, a regional intendant under arrest for the murder of two Musketeers, to Paris. The Red Guards, resentful of the Musketeers' handling of him, initiate a vicious fight between the two regiments. Fed up with the disruptive rivalry between the Musketeers and the Red Guards, the king calls a contest between them to settle which one is stronger once and for all. D'Artagnan is determined to be chosen to fight so that he can prove himself worthy to be a Musketeer. But first he has to learn to control his impetuous nature and to fight with his head, not his heart.",
+      "small": "A contest between the Musketeers and Red Guards gives D'Artagnan a chance to prove himself",
+      "medium": "Historical drama. The king calls a contest between the Musketeers and the Red Guards to prove which regiment is stronger, giving D'Artagnan a chance to prove himself."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03yvn8m",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3268,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3022,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3022,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "56 mins",
+        "value": "PT55M58S"
+      },
+      "guidance": {
+        "id": "V1",
+        "text": {
+          "large": "Contains some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 16 Mar 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "16 Mar 2014",
+    "related_links": [],
+    "original_title": "The Challenge",
+    "audio_described": false,
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2014-03-16T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b03zj3bm",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01vm067.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 9. Knight Takes Queen",
+    "synopses": {
+      "large": "Queen Anne's taking of the waters is cut short when her life is put in mortal danger. Meanwhile Louis dines with wealthy German banker Count Mellendorf, who is looking for a French match for his beautiful daughter. \n\nAs the Musketeers try to spirit Anne back to Paris, they're forced to seek refuge in a fortified convent, where Aramis comes face to face with his past. Under siege and fearful for their lives, the mother superior and nuns help the Musketeers to defend the convent, but what will they do once they run out of ammunition?",
+      "small": "The Musketeers come under siege in a convent whilst protecting the queen's life.",
+      "medium": "Historical drama. The Musketeers come under siege in a convent whilst protecting the queen after an attempt is made on her life by a crack-shot assassin."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b03zj3bh",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3226,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2984,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2984,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M16S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 23 Mar 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "23 Mar 2014",
+    "related_links": [],
+    "original_title": "Knight Takes Queen",
+    "audio_described": false,
+    "parent_position": 9,
+    "requires_sign_in": true,
+    "release_date_time": "2014-03-23T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b040098g",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p01w4n8j.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 1: 10. Musketeers Don't Die Easily",
+    "synopses": {
+      "large": "The series reaches its thrilling climax as an unexpected rift between the Musketeers threatens to blow them apart. Athos takes a woman hostage in the square, and the Musketeers are amazed to discover he is threatening none other than Milady. Athos is furious when he finds out that D'Artagnan knows her, testing their friendship to its limits. D'Artagnan is forced to do the unthinkable and seeks Milady's help. \n\nThe cardinal, fearful the Musketeers will prove he masterminded the attempt on the queen's life, compels Milady to kill them by any means. Milady has no choice but to revisit her dark past, and in doing so puts Constance into danger. The Musketeers must use all their wits and courage to outsmart her and save Constance. Can the Musketeers restore their team and bring Milady and the cardinal to justice? Or will Milady finally wreak her revenge?",
+      "small": "Milady seeks her ultimate revenge. Can the Musketeers outwit her or will she destroy them?",
+      "medium": "An unexpected rift threatens to blow apart the Musketeers. Will they repair the damage, or will Milady succeed in wreaking her final revenge?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b040098b",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3210,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2970,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2970,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 30 Mar 2014"
+    }],
+    "parent_id": "p00sxqkb",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "30 Mar 2014",
+    "related_links": [],
+    "original_title": "Musketeers Don't Die Easily",
+    "audio_described": false,
+    "parent_position": 10,
+    "requires_sign_in": true,
+    "release_date_time": "2014-03-30T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b04wtlrp",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02g26yf.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/1280x720/p06lhztp.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 2: 1. Keep Your Friends Close",
+    "synopses": {
+      "large": "The Musketeers are sent to retrieve the Comte de Rochefort, the Cardinal's man in Madrid, who has escaped from a Spanish prison and brings news that the chief author of France's military strategy against Spain, General De Foix, has been captured. \n\nThe Musketeers must join forces with Rochefort to rescue De Foix before this critical information falls into the wrong hands, but can Rochefort be trusted, and will the Musketeers succeed against the traps laid for them?",
+      "small": "The Musketeers must rescue a French general from an impenetrable Spanish prison.",
+      "medium": "Historical drama. The Musketeers return and must rescue a French general from an impenetrable Spanish prison."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b04wtlq1",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3423,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3162,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3162,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M33S"
+      },
+      "guidance": {
+        "id": "WD",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 2 Jan 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "2 Jan 2015",
+    "related_links": [{
+      "id": "p02g3whl",
+      "url": "http://www.bbc.co.uk/iplayer/episode/p02fc22y/the-musketeers-series-1-the-musketeers-10-minute-recap",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Watch a recap of series one"
+    }],
+    "original_title": "Keep Your Friends Close",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2015-01-02T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b04xwbjw",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02g56xy.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 2: 2. An Ordinary Man",
+    "synopses": {
+      "large": "King Louis demands to experience the life of his carefree subjects, but his night of fun quickly comes to an end when he and d'Artagnan are mistaken for commoners and kidnapped by the notorious criminal Lemaitre to be sold to Spain as slaves. \n\nThe musketeers must find and rescue d'Artagnan and the king. Can they save Louis from mortal danger and will they return him to the palace in time for the dauphin's christening? \n\nMeanwhile Rochefort uses the king's absence to become closer to Queen Anne.",
+      "small": "D'Artagnan must protect King Louis when a notorious criminal kidnaps them both.",
+      "medium": "Historical drama. D'Artagnan must protect King Louis when a notorious criminal kidnaps them both."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06ddhjs",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3356,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3101,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3101,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT57M26S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9 Jan 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "9 Jan 2015",
+    "related_links": [{
+      "id": "p02gkr2t",
+      "url": "http://www.bbc.co.uk/programmes/p02ggczr",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Luke's underwater stunt"
+    }],
+    "original_title": "An Ordinary Man",
+    "audio_described": false,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2015-01-09T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b04ykm2t",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02gd09m.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 2: 3. The Good Traitor",
+    "synopses": {
+      "large": "When a Spanish general, Tariq Alaman, offers to hand over the formula of a unique and deadly gunpowder in exchange for help rescuing his kidnapped daughter, the Musketeers find themselves tangled in a complex web of political trades with the Spanish. Their mission is further complicated when Porthos is captured by Spanish agents. \n\nMeanwhile, when the dauphin becomes seriously ill, Constance takes matters into her own hands and risks everything to save his life.",
+      "small": "The Musketeers help rescue an enemy's daughter in exchange for a deadly gunpowder formula.",
+      "medium": "Historical drama. The Musketeers help rescue an enemy's daughter in exchange for a deadly formula, but their mission is complicated when Porthos is captured."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b051h9ny",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3328,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3076,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3076,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M57.640S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "16 Jan 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "16 Jan 2015",
+    "related_links": [{
+      "id": "p02gxhyj",
+      "url": "http://www.bbc.co.uk/programmes/articles/1ScxlZdlVDBkrXCNmlSbx4Q/the-musketeers-exclusives",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Watch exclusive videos"
+    }],
+    "original_title": "The Good Traitor",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2015-01-16T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b051c66x",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02hrs0l.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 2: 4. Emilie",
+    "synopses": {
+      "large": "The Musketeers investigate Emilie of Duras, a woman claiming to have visions from God which instruct her to lead her thousands of followers into war with Spain. As word of Emilie's visions triggers violent anti-Spanish riots, Aramis is sent to discredit her before she pushes France into an ill-timed war with Spain. \n\nMeanwhile Rochefort continues to clash with Spanish Ambassador Perales. He resorts to blackmail and murder to resolve the problem.",
+      "small": "A woman claims to have visions from God which instruct her to start a war with Spain.",
+      "medium": "Historical drama. The Musketeers investigate a woman claiming to have visions from God which instruct her to lead her thousands of followers into war with Spain."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b051c65f",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3437,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3175,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3175,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M47.400S"
+      },
+      "guidance": {
+        "id": "WD",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 30 Jan 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "30 Jan 2015",
+    "related_links": [{
+      "id": "p02hznzz",
+      "url": "http://www.bbc.co.uk/programmes/p02hv83h",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Constance and d'Artagnan"
+    }],
+    "original_title": "Emilie",
+    "audio_described": false,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2015-01-30T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b052qtx7",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02jq60f.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 2: 5. The Return",
+    "synopses": {
+      "large": "When Athos is kidnapped and taken back to his estate of Pinon, the Musketeers go in search of him. They find themselves in the middle of a battle against Baron Renard, who is shocked by Athos' decision to reject his nobility and is determined to seize the land for himself. \n\nAs the Musketeers train the people of Pinon in combat and defend them against multiple attacks, Athos is forced to confront his past when he encounters an old friend whose life was ruined by his actions years ago.",
+      "small": "Athos must confront his past to protect the people he left behind.",
+      "medium": "Historical drama. When Athos is kidnapped and taken to Pinon, he and the Musketeers must battle against a nobleman to protect the helpless people Athos abandoned."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b052qtwf",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3289,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3041,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3041,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "56 mins",
+        "value": "PT56M19S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 13 Feb 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "13 Feb 2015",
+    "related_links": [],
+    "original_title": "The Return",
+    "audio_described": false,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2015-02-13T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b053kzjw",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02jq5y5.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 2: 6. Through a Glass Darkly",
+    "synopses": {
+      "large": "Renowned astronomer Marmion gathers the royal household to his impressive observatory in a transformed old fort to watch a solar eclipse. The Musketeers and Rochefort escort them but could never have predicted the twist in fate that ensues and the impossible choices that must be made. \n\nWho is Marmion really and what is his game? The Musketeers are forced into the fight of their lives with dramatic consequences. Will they accept Milady's help despite their mistrust of her? It might be their only chance to save the king, queen and themselves.",
+      "small": "An astronomer gathers the royal party to see an eclipse, but events take a dramatic turn.",
+      "medium": "Historical drama. An astronomer gathers the royal party to watch an eclipse, but events take a dramatic turn and the Musketeers are pushed to their limits."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b053kzhx",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3307,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3057,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3057,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M37S"
+      },
+      "guidance": {
+        "id": "WD",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 20 Feb 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "20 Feb 2015",
+    "related_links": [{
+      "id": "p02kgjb5",
+      "url": "http://www.bbc.co.uk/programmes/p02j9c0g",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Interview with the creator"
+    }],
+    "original_title": "Through a Glass Darkly",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2015-02-20T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b0547wsz",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02kfqxm.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 2: 7. A Marriage of Inconvenience",
+    "synopses": {
+      "large": "The king's cousin is ambushed while under Musketeer escort as she travels from Mantua to Sweden to make a political marriage that will be advantageous to France. The Musketeers must quickly discover who is targeting her to keep both her and the alliance between countries protected. \n\nHowever, it emerges that other important figures at court also appear to be in danger. Who is the killer and could he already be inside the palace walls?",
+      "small": "An assassin is at large, targeting the king's cousin and other important figures at court.",
+      "medium": "Historical drama. The king's cousin is ambushed whilst under Musketeer protection, and other important figures at Court also appear to be in danger."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b0547wr8",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3320,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3069,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3069,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M50S"
+      },
+      "guidance": {
+        "id": "V1",
+        "text": {
+          "large": "Contains some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 27 Feb 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "27 Feb 2015",
+    "related_links": [],
+    "original_title": "A Marriage of Inconvenience",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2015-02-27T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b054zdry",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02kqrzh.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 2: 8. The Prodigal Father",
+    "synopses": {
+      "large": "Porthos uncovers the truth about his parentage and demands answers from his new-found father. As he learns more about his past, Porthos questions his place in the Musketeers regiment. However, the Musketeers have suspicions about Porthos' new family, wondering whether he should trust them. Can they save Porthos from the dangers that lie ahead, and where do his true loyalties lie?",
+      "small": "Porthos uncovers the truth about his past and questions his allegiance to the Musketeers.",
+      "medium": "Historical drama. Porthos uncovers the truth about his parentage and questions his allegiances. The Musketeers have suspicions about Porthos' new family."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b054zdr2",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3305,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3056,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3056,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "57 mins",
+        "value": "PT56M35S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 6 Mar 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "6 Mar 2015",
+    "related_links": [],
+    "original_title": "The Prodigal Father",
+    "audio_described": false,
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2015-03-06T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b05n8vw7",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02lpbbt.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": true,
+    "subtitle": "Series 2: 9. The Accused",
+    "synopses": {
+      "large": "The Musketeers must put their lives on the line when the queen is accused of treason. They have no choice but to steal her away from the palace to safety while they search for evidence to prove that Rochefort is a Spanish spy. However, it soon transpires that nobody is safe from Rochefort's grasp, not even the king.",
+      "small": "The Musketeers must put their lives on the line when the queen is accused of treason.",
+      "medium": "Historical drama. The Musketeers must put their lives on the line to prove that Rochefort is a Spanish spy when the queen is accused of treason."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b05n8vvg",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3220,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2979,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2979,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M10S"
+      },
+      "guidance": {
+        "id": "V1",
+        "text": {
+          "large": "Contains some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 20 Mar 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "20 Mar 2015",
+    "related_links": [],
+    "original_title": "The Accused",
+    "audio_described": false,
+    "parent_position": 9,
+    "requires_sign_in": true,
+    "release_date_time": "2015-03-20T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b05p1lvx",
+    "live": false,
+    "type": "episode",
+    "title": "The Musketeers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p02m69dj.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b04ww8fq",
+    "guidance": false,
+    "subtitle": "Series 2: 10. Trial and Punishment",
+    "synopses": {
+      "large": "The Musketeers must risk everything to save France from Rochefort's treacherous plan. While Porthos seeks to lure the Spanish spymaster to Paris to prove Rochefort's betrayal to the King, Athos and d'Artagnan must save Constance from certain death. However will they be able to protect Aramis and the Queen before Rochefort gets to them first? The fate of France and their closest comrades lies in the Musketeers' hands.",
+      "small": "The Musketeers must risk everything to save France from Rochefort's treacherous plan.",
+      "medium": "Historical drama. The Musketeers must risk everything to save France from Rochefort's plan. Porthos seeks to lure the Spanish spymaster to Paris."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b05p1lt1",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3259,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3014,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3014,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "56 mins",
+        "value": "PT55M49S"
+      },
+      "availability": {
+        "end": "2019-01-11T09:00:00Z",
+        "start": "2018-07-12T08:00:00Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "9pm 27 Mar 2015"
+    }],
+    "parent_id": "b04ww8rq",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "27 Mar 2015",
+    "related_links": [],
+    "original_title": "Trial and Punishment",
+    "audio_described": false,
+    "parent_position": 10,
+    "requires_sign_in": true,
+    "release_date_time": "2015-03-27T00:00:00.000Z",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  }
+]

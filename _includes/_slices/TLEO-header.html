@@ -1,0 +1,9 @@
+<div class="TLE0-header" data-id="{{include.data}}">
+
+  {% for item in site.data[include.data] %}
+    {% include _items/TLEO-header-slice-one.html %}
+  {% endfor %}
+
+  {% include _slices/episode-grid-pagination.html    data='killing-eve-episodes'    title='Killing Eve' %}
+
+</div>

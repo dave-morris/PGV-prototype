@@ -1,0 +1,33 @@
+<div class="grid medium page1" data-id="{{include.data}}">
+  <div class="grid-content">
+    {% for item in site.data[include.data] limit:40 %}
+      {% include _items/medium-episode-content-item.html %}
+    {% endfor %}
+  </div>
+</div>
+
+
+
+<div class="grid medium page2" data-id="{{include.data}}">
+  <div class="grid-content">
+    {% for item in site.data[include.data] limit:40 offset:40 %}
+      {% include _items/medium-episode-content-item.html %}
+    {% endfor %}
+  </div>
+</div>
+
+<div class="grid medium page3" data-id="{{include.data}}">
+  <div class="grid-content">
+    {% for item in site.data[include.data] limit:40 offset:80 %}
+      {% include _items/medium-episode-content-item.html %}
+    {% endfor %}
+  </div>
+</div>
+
+<div class="grid medium page4" data-id="{{include.data}}">
+  <div class="grid-content">
+    {% for item in site.data[include.data] limit:40 offset:120 %}
+      {% include _items/medium-episode-content-item.html %}
+    {% endfor %}
+  </div>
+</div>

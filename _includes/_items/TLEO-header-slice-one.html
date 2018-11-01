@@ -1,0 +1,15 @@
+<div class="TLEO-image">
+  <img src="{{ item.images.standard }}">
+  <img src="{{site.baseurl}}/img/slice-one-header-fade.png">
+</div>
+
+<div class="TLEO-text">
+  <div class="TLEO-label brevier">{{ item.labels.category }}</div>
+  <div class="TLEO-title paragon">{{ item.title }}</div>
+  <div class="TLEO-synopsis body-copy">{{ item.synopses.small }}</div>
+</div>
+
+<div class="TLEO-buttons">
+  {% include _items/button-icon.html name='Watch trailer' icon='unbranded-play' %}
+  {% include _items/button-icon.html name='Add' icon='add' %}
+</div>

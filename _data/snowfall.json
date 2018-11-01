@@ -1,0 +1,2331 @@
+[{
+    "id": "b099161r",
+    "live": false,
+    "type": "episode",
+    "tests": [],
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05r7g5z.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "Franklin Saint is living with his mum and looking for a way to get on in life. He's already working as a small-time dealer, but he had a good education and he wants to do the right thing. After a chance meeting, Franklin senses an opportunity his mother wouldn't approve of, one that will change his life, and his city. \n\nTeddy McDonald is a disgruntled CIA agent on a dead-end placement in Los Angeles. When someone walks into his office to tell him his colleague is dead, Teddy takes a huge risk that he hopes will rebuild both his reputation and his self-respect. \n\nGustavo 'El Oso' Zapata is a Mexican 'luchador' pro-wrestler, working small-time jobs on the side. After he does a dangerous job for Mexican cartel members Lucia Villanueva and Pedro Nava, they take him on full-time and let him in on their plans to build something of their own, away from the watchful eyes of their fathers.",
+      "small": "A young small time dealer takes a leap into the cocaine game in 80s LA.",
+      "medium": "Hard-hitting drama. Los Angeles, 1983: Franklin is looking for a way to get on in life. He is working as a dealer, but he had a good education and he wants to do the right thing.",
+      "editorial": "A young, South Central street entrepreneur takes a leap into the cocaine game."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b099151n",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3213,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2973,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2973,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "55 mins",
+        "value": "PT55M3.040S"
+      },
+      "guidance": {
+        "id": "L3S1",
+        "text": {
+          "large": "Contains very strong language and some scenes of a sexual nature.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some sexual content."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 3216,
+      "first_broadcast": "10pm 8 Oct 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "8 Oct 2017",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "Snowfall: Series 1-2",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2017-10-08T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. LA, 1983. A storm is coming and its name is cocaine",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09bby7p",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05k3dd6.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 2. Make Them Birds Fly",
+    "synopses": {
+      "large": "Franklin did well in shifting Avi's product and goes back for more. He's high on his success but he may soon have to learn some hard lessons about the path he's decided to take. \n\nHaving gone into an uneasy partnership with Alejandro, Teddy insists on meeting their supplier. Things don't go quite as well as he expected, but they still need to do their first deal. After the job they gave him goes wrong, Oso confronts Pedro and Lucia - he's got their money, but he wants something from them.",
+      "small": "Franklin did well in shifting Avi's product and goes back for more.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Having done well at shifting Avi's product, Franklin goes back for more."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09bbx5r",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2790,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2592,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2592,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "48 mins",
+        "value": "PT48M0.040S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2794,
+      "first_broadcast": "10pm 15 Oct 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "15 Oct 2017",
+    "related_links": [],
+    "original_title": "Make Them Birds Fly",
+    "audio_described": false,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2017-10-15T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09cbfvc",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05k3h7y.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 3. Slow Hand",
+    "synopses": {
+      "large": "Franklin needs to recover his money and get revenge on the people who took it. He can't do it alone, so Leon says he knows someone who'll help - things are about to get real. \n\nAlejandro and Teddy have lined up a huge arms deal but, like everything else, Teddy finds he needs to lower his expectations and change the plan again. Then he gets an unexpected visitor. \n\nGustavo, Lucia and Pedro need to quickly find a fall guy to throw Ramiro and the cartel off the scent, or their whole plan will fall apart.",
+      "small": "Franklin needs to recover his money and get revenge on the people who took it.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Franklin needs to recover his money and get revenge on the people who took it."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09cbb6w",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2598,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2419,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2419,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "45 mins",
+        "value": "PT44M47.680S"
+      },
+      "guidance": {
+        "id": "L3V4",
+        "text": {
+          "large": "Contains very strong language and scenes of sexual violence.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and sexual violence."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2602,
+      "first_broadcast": "10pm 22 Oct 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "22 Oct 2017",
+    "related_links": [],
+    "original_title": "Slow Hand",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2017-10-22T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09dgl6y",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05kv6kp.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 4. Trauma",
+    "synopses": {
+      "large": "Teddy has flown all the way to the Nicaraguan jungle to find Alejandro and the weapons, and when he gets there he sees the real conditions the Contras are fighting under. \n\nDouble-crossed again, Franklin and Leon hunt down the thief and this time, they've learned they need to do their own dirty work. \n\nGustavo, Pedro and Lucia are hiding out in a safe house to avoid suspicion. Gustavo is wounded, Lucia is nervous and Pedro is going out of his mind with worry.",
+      "small": "Gustavo, Pedro and Lucia are hiding out in a safe house to avoid suspicion.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Teddy has flown all the way to the Nicaraguan jungle to find Alejandro and the weapons."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09dgl6g",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2504,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2334,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2334,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "43 mins",
+        "value": "PT43M13.720S"
+      },
+      "guidance": {
+        "id": "L3V1",
+        "text": {
+          "large": "Contains very strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2511,
+      "first_broadcast": "10pm 29 Oct 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "29 Oct 2017",
+    "related_links": [],
+    "original_title": "Trauma",
+    "audio_described": false,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2017-10-29T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09ffzgs",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05llhbx.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 5. Seven-Four",
+    "synopses": {
+      "large": "It's the Fourth of July, and at Jerome and Louie's family barbecue Franklin causes trouble by bailing out his drunk father and inviting him along. But it turns out his father is one of the only people who can see what's really going on with Franklin.\n\nReturning from Nicaragua, Teddy and Alejandro crash-land in the Mexican desert and face a fight to stay alive.\n\nGustavo is invited to Pedro and Lucia's family celebrations but it's starting to look like each of them has something very different in mind for him.",
+      "small": "Teddy and Alejandro crash-land in the Mexican desert and face a fight to stay alive.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. It's the Fourth of July, Franklin causes trouble at Jerome and Louie's barbecue."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09ffzfj",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2355,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2200,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2200,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "41 mins",
+        "value": "PT40M44.960S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2359,
+      "first_broadcast": "10:35pm 5 Nov 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "5 Nov 2017",
+    "related_links": [],
+    "original_title": "Seven-Four",
+    "audio_described": false,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2017-11-05T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09g863k",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05m5yqf.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 6. A Long Time Coming",
+    "synopses": {
+      "large": "Already under pressure from both his CIA bosses and Alejandro, Teddy is given one last chance by his wife Jules to make things work. \n\nBusiness is booming and Franklin's uncle Jerome takes him to meet an old friend who knows more about the streets than him. \n\nNeeding a new business partner if their plan's going to work, Gustavo and Lucia turn to someone from Gustavo's past, without telling Pedro.",
+      "small": "Business is booming and Franklin's uncle Jerome takes him to meet an old friend.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Already under pressure, Teddy is given one last chance by his wife."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09g84dd",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2534,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2361,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2361,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "44 mins",
+        "value": "PT43M43.520S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2537,
+      "first_broadcast": "10pm 12 Nov 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "12 Nov 2017",
+    "related_links": [],
+    "original_title": "A Long Time Coming",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2017-11-12T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09gy1mb",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05mwtwg.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 7. Cracking",
+    "synopses": {
+      "large": "Franklin, Leon and Kevin take a road trip to meet Kevin's cousin, who he says can help them. But in Oakland Franklin meets another contact who can give him much more than money-opportunity. It's a dark and dangerous opportunity, but Franklin isn't afraid of risk. \n\nTeddy needs Alejandro to finally open up, trust him and tell him what went on when Logan died, because the future of their entire operation is suddenly under threat unless they do something. \n\nWithout telling Pedro, Lucia makes Gustavo a full partner in their operation.",
+      "small": "Franklin, Leon and Kevin take a road trip to meet Kevin's cousin.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Franklin, Leon and Kevin take a road trip to meet Kevin's cousin."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09gxz0s",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2301,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2152,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2152,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "40 mins",
+        "value": "PT39M50.800S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2303,
+      "first_broadcast": "10pm 19 Nov 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "19 Nov 2017",
+    "related_links": [],
+    "original_title": "Cracking",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2017-11-19T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09hlmk1",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05nn6sy.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 8. Baby Teeth",
+    "synopses": {
+      "large": "Teddy works night and day to cover Alejandro's tracks, using every trick he knows and all the powers of the agency, but a chance encounter in a club could be about to blow everything apart.\n\nLucia finds it's even harder than she realised to break away from the pull of her family, and Ramiro is not a man who takes kindly to being betrayed.\n\nWith his new operation up and running, Franklin looks set to be the king of the streets - but when you're at the top there's always someone looking to bring you down.",
+      "small": "Teddy works night and day to cover Alejandro's tracks, using every trick he knows.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Teddy attempts to cover Alejandro's tracks, using every trick he knows."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09hlmjb",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2386,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2229,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2229,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "41 mins",
+        "value": "PT41M16.360S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2391,
+      "first_broadcast": "10pm 26 Nov 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "26 Nov 2017",
+    "related_links": [],
+    "original_title": "Baby Teeth",
+    "audio_described": false,
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2017-11-26T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09j302k",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05pbxrq.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 9. Story of a Scar",
+    "synopses": {
+      "large": "Franklin is a man who doesn't like getting his hands dirty, but now he has no choice. He knows it was Lenny who came after him and Leon, and they have to strike back hard or lose everything. \n\nLucia is powerless to stop Ramiro muscling in on everything she and Gustavo have achieved together. Cissy confronts Louie about Jerome and the influence he has over Franklin, but Louie has some home truths for her. \n\nTeddy is feeling the pressure of covering Alejandro's tracks but persuades him to leave town so they can handle things Teddy's way. This leaves Alejandro free to set up a new deal with the Colombians, something he insists on doing alone.",
+      "small": "Franklin is a man who doesn't like getting his hands dirty, but now he has no choice.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Franklin doesn't like getting his hands dirty, but now he has no choice."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09j2y3n",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2517,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2346,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2346,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "43 mins",
+        "value": "PT43M27S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 2519,
+      "first_broadcast": "10pm 3 Dec 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "3 Dec 2017",
+    "related_links": [],
+    "original_title": "Story of a Scar",
+    "audio_described": false,
+    "parent_position": 9,
+    "requires_sign_in": true,
+    "release_date_time": "2017-12-03T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "b09j302r",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p05pbxs2.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 1: 10. The Rubicon",
+    "synopses": {
+      "large": "Franklin finally has things set up, everything is in place and he has the money his family have always needed, but at a price - he is losing their trust. \n\nMeanwhile, Avi doesn't take Franklin's crew seriously, and they risk him losing his supply line altogether. \n\nLucia is determined not to lose everything she has worked so hard for, and at her own father's funeral there is a surprise in store for uncle Ramiro. \n\nFinally, after weeks of hard work, tough decisions and sacrifice, Teddy is forced to make an impossible choice.",
+      "small": "Franklin finally has things set up, but it comes at a price.",
+      "medium": "Drama series about the early days of crack and its effect on black communities in LA. Franklin finally has things set up, but it comes at a price."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "b09j2zs9",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3032,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2810,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2810,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "52 mins",
+        "value": "PT52M1.680S"
+      },
+      "guidance": {
+        "id": "D1L3V1",
+        "text": {
+          "large": "Contains very strong language, some violent scenes and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language, some violence and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2018-10-31T09:00:00Z",
+        "start": "2018-09-01T08:00:00Z",
+        "remaining": {
+          "text": "Available for 15 days"
+        }
+      },
+      "credits_start": 3035,
+      "first_broadcast": "10:45pm 3 Dec 2017"
+    }],
+    "parent_id": "b0991bqh",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "3 Dec 2017",
+    "related_links": [],
+    "original_title": "The Rubicon",
+    "audio_described": false,
+    "parent_position": 10,
+    "requires_sign_in": true,
+    "release_date_time": "2017-12-03T00:00:00.000Z",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06lf32y",
+    "live": false,
+    "type": "episode",
+    "tests": [{
+      "id": "Snowfall_2_S2E1",
+      "variants": [{
+          "id": "variant1",
+          "data": {
+            "images": {
+              "type": "image",
+              "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06my296.jpg"
+            }
+          }
+        },
+        {
+          "id": "variant2",
+          "data": {
+            "images": {
+              "type": "image",
+              "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06my2c4.jpg"
+            }
+          }
+        },
+        {
+          "id": "defaultVariant",
+          "data": {
+            "images": {
+              "type": "image",
+              "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06my22b.jpg"
+            }
+          }
+        }
+      ]
+    }],
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06my22b.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 1. Sightlines",
+    "synopses": {
+      "large": "Franklin and his gang are now the main dealers in the area but success brings new problems, including how to get his mother Cissy to ever forgive him. \n\nThen a drugs bust forces Franklin to think on his feet. Lucia and Oso realise that crack is about to take over the streets and decide they need to be involved, but to do this Lucia has to approach an old enemy. \n\nWhen the CIA cut Teddy's funding and make his Colombian operation strictly unofficial, he is forced to improvise.",
+      "small": "Franklin and his gang are now the main dealers in the area.",
+      "medium": "Drama series. Franklin and his gang are now the main dealers in the area but success brings new problems, including how to get his mother Cissy to ever forgive him.",
+      "editorial": "In 80s LA, success brings new problems. As the stakes rise, so do the risks."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p06lf349",
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 2575,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2398,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2398,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "44 mins",
+          "value": "PT44M24.960S"
+        },
+        "guidance": {
+          "id": "L3S1V1",
+          "text": {
+            "large": "Contains very strong language, some scenes of a sexual nature and some violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language, some sexual content and some violence."
+          }
+        },
+        "availability": {
+          "end": "2019-01-07T23:40:00Z",
+          "start": "2018-10-06T22:35:00Z",
+          "remaining": {
+            "text": "Available for 2 months"
+          }
+        },
+        "credits_start": 2620,
+        "first_broadcast": "10:50pm 6 Oct 2018"
+      },
+      {
+        "hd": false,
+        "id": "p06n5m8q",
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 2574,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2398,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2398,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "44 mins",
+          "value": "PT44M24.480S"
+        },
+        "guidance": {
+          "id": "L3S1V1",
+          "text": {
+            "large": "Contains very strong language, some scenes of a sexual nature and some violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language, some sexual content and some violence."
+          }
+        },
+        "availability": {
+          "end": "2019-01-07T23:40:00Z",
+          "start": "2018-10-06T23:08:44Z",
+          "remaining": {
+            "text": "Available for 2 months"
+          }
+        },
+        "first_broadcast": "6 Oct 2018"
+      }
+    ],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "Sightlines",
+    "audio_described": true,
+    "editorial_title": "Snowfall: Series 2",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. It's time for Frankin to step up in the crack game",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0jtv",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1b9w.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 2. The Day",
+    "synopses": {
+      "large": "With Franklin and Leon nowhere to be seen Jerome is getting worried. Locked in a basement across town, Franklin has to think fast to stay alive. \n\nIn need of help to keep the operation alive, Teddy has enlisted a new pilot - his brother Matt, who has a much more relaxed approach to doing business. \n\nWhen Lucia and Oso have a very surprising visitor, Lucia has to confront what they did to her uncle Ramiro. \n\nFinally, after weeks of hard work, tough decisions and sacrifice, Teddy is forced to make an impossible choice.",
+      "small": "With Franklin and Leon nowhere to be seen Jerome is getting worried.",
+      "medium": "Drama series. With Franklin and Leon nowhere to be seen Jerome is getting worried. Locked in a basement across town, Franklin has to think fast to stay alive.",
+      "editorial": "Teddy has enlisted a new pilot – but brother Matt has an unusual way of doing business."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p06m0lyh",
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 2587,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2409,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2409,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT44M36.600S"
+        },
+        "guidance": {
+          "id": "L3V3",
+          "text": {
+            "large": "Contains very strong language and graphic violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and graphic violence."
+          }
+        },
+        "availability": {
+          "end": "2019-01-07T23:35:00Z",
+          "start": "2018-10-15T10:10:29Z",
+          "remaining": {
+            "text": "Available for 2 months"
+          }
+        },
+        "credits_start": 2587,
+        "first_broadcast": "6 Oct 2018"
+      },
+      {
+        "hd": false,
+        "id": "p06ntbzw",
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 2585,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2408,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2408,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "45 mins",
+          "value": "PT44M35.480S"
+        },
+        "guidance": {
+          "id": "L3V3",
+          "text": {
+            "large": "Contains very strong language and graphic violent scenes.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and graphic violence."
+          }
+        },
+        "availability": {
+          "end": "2019-01-07T23:35:00Z",
+          "start": "2018-10-15T10:09:50Z",
+          "remaining": {
+            "text": "Available for 2 months"
+          }
+        },
+        "first_broadcast": "6 Oct 2018"
+      }
+    ],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "The Day",
+    "audio_described": true,
+    "parent_position": 2,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "2/10 The Day. Franklin has to think fast to stay alive",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0n4n",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bcx.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": false,
+    "subtitle": "Series 2: 3. Prometheus Rising",
+    "synopses": {
+      "large": "Franklin's dealers have been straying into a rival Mexican gang's territory and when the Mexicans retaliate brutally, Kevin is not satisfied with Franklin's failure to strike back. \n\nTeddy and Matt are in Colombia for their pickup but things do not go smoothly for them. \n\nPedro wants to get back into business with Lucia and Oso, but he is going to have to work his way up and prove himself again.",
+      "small": "Franklin's dealers have been straying into a rival Mexican gang's territory.",
+      "medium": "Drama series. Teddy and Matt are in Colombia for their pickup but things do not go smoothly for them.",
+      "editorial": "Franklin's dealers have been straying into rival territory – with brutal retaliation."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0nbs",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2527,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2364,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2364,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "44 mins",
+        "value": "PT43M47.080S"
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:12:35Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2537,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC Two",
+      "scheduled_start": "2018-10-20T21:30:00.000Z"
+    },
+    "original_title": "Prometheus Rising",
+    "audio_described": false,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "3/10 Prometheus Rising. Can Pedro get back in business?",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0ns7",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bdr.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 4. Jingle Bell Rock",
+    "synopses": {
+      "large": "With business booming, trouble brewing with the Mexicans and his men getting mugged on the streets more and more, Franklin realises it’s time to step his whole operation up a gear, even accepting banking advice from Teddy.\n\nMeanwhile Cissy is called to Alton's bedside and forced to consider whether to give Franklin's father one last chance. \n\nMatt gets an unwelcome revelation about the nature of Teddy’s operation and the things it’s driven him to.",
+      "small": "Franklin realises it’s time to step his whole operation up a gear.",
+      "medium": "With business booming, and trouble brewing with the Mexicans, Franklin realises it’s time to step his whole operation up a gear, even accepting banking advice from Teddy.",
+      "editorial": "With his men getting mugged, Franklin knows it’s time to step up a gear."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0nvk",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2334,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2181,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2181,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "40 mins",
+        "value": "PT40M23.680S"
+      },
+      "guidance": {
+        "id": "L3V1",
+        "text": {
+          "large": "Contains very strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:13:05Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2334,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "Jingle Bell Rock",
+    "audio_described": false,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "4/10 Jingle Bell Rock. Business booming, trouble brewing",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0p4f",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1brc.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 5. Serpiente",
+    "synopses": {
+      "large": "With Avi back out of jail, back in business and looking for revenge, Teddy needs to find a way to keep Franklin and their new business safe.\n\nSoledad is working hard at the warehouse and Pedro seems to genuinely love her, but Lucia remains suspicious.\n\nDespite Franklin's instructions, Kevin is trying to track down his cousin's killer himself.",
+      "small": "Teddy needs to find a way to keep Franklin and their new business safe.",
+      "medium": "With Avi back out of jail, back in business and looking for revenge, Teddy needs to find a way to keep Franklin and their new business safe.",
+      "editorial": "Teddy needs to find a way to keep Franklin and their new business safe."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0x4c",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2253,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2109,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2109,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "39 mins",
+        "value": "PT39M3.440S"
+      },
+      "guidance": {
+        "id": "L3S1V1",
+        "text": {
+          "large": "Contains very strong language, some scenes of a sexual nature and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language, some sexual content and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:14:57Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2256,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "Serpiente",
+    "audio_described": false,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "5/10 Serpentine. Avi’s out of jail - and out for revenge",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0ph8",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bjv.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 6. The Offer",
+    "synopses": {
+      "large": "When some of his supply goes missing Franklin decides to enforce things the hard way, even if that means upsetting family.\n\nTeddy and Matt take a trip to Panama with Avi to cement a new business relationship.\n\nTo save their lives after a fight with their rivals, Lucia and Oso make a bargain that they can't honour without Franklin's help.",
+      "small": "Franklin decides to enforce things the hard way, even if that means upsetting family.",
+      "medium": "When some of his supply goes missing Franklin decides to enforce things the hard way, even if that means upsetting family.",
+      "editorial": "To save their lives, Lucia and Oso make a bargain that they can't honour without help."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0plj",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2396,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2238,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2238,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "41 mins",
+        "value": "PT41M26.200S"
+      },
+      "guidance": {
+        "id": "L3S1V1",
+        "text": {
+          "large": "Contains very strong language, some scenes of a sexual nature and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language, some sexual content and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:15:45Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2397,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "The Offer",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "6/10 The Offer. Franklin must enforce things the hard way",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0pxb",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bkx.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 7. The World is Yours",
+    "synopses": {
+      "large": "Franklin brings Leon and Kevin in on his plans to build an empire with them at his side every step of the way, but that doesn't mean he's prepared to compromise his rules. \n\nTeddy is prepared to help Franklin but he and Matt run into yet more trouble with the Colombians. \n\nLouie's ideas have reinvigorated Claudia's club but she finds that even now she's a success, she won't be allowed to forget her past.",
+      "small": "Franklin brings Leon and Kevin in on his plans to build an empire with them at his side.",
+      "medium": "Franklin brings Leon and Kevin in on his plans to build an empire with them at his side every step of the way, but that doesn't mean he's prepared to compromise his rules.",
+      "editorial": "Franklin wants Leon and Kevin by his side - but he’s not prepared to compromise."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0pz0",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2392,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2233,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2233,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "41 mins",
+        "value": "PT41M21.560S"
+      },
+      "guidance": {
+        "id": "L3V1",
+        "text": {
+          "large": "Contains very strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:16:24Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2392,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "The World is Yours",
+    "audio_described": false,
+    "parent_position": 7,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "7/10 The World is Yours. Franklin wants to build an empire",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0qc4",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bvm.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 8. Surrender",
+    "synopses": {
+      "large": "Teddy finds that his work for the CIA is even further off the books than he realised. Oso is still under arrest and Lucia, still at large, needs to think fast to find a plan that gets them both off the hook for now. \n\nFranklin is still trying to work out his differences with Cissy, but she can't forgive him yet.",
+      "small": "Teddy finds that his work for the CIA is even further off the books than he realised.",
+      "medium": "Teddy finds that his work for the CIA is even further off the books than he realised. Franklin is still trying to work out his differences with Cissy."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0qfb",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2447,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2284,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2284,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "42 mins",
+        "value": "PT42M17.240S"
+      },
+      "guidance": {
+        "id": "L3V1",
+        "text": {
+          "large": "Contains very strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:16:38Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2448,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "Surrender",
+    "audio_described": false,
+    "parent_position": 8,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "8/10 Surrender. Will Cissy ever forgive Franklin?",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0qp6",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bts.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 9. Aftermath",
+    "synopses": {
+      "large": "With resentment between Franklin and Kevin reaching a head, something has to give, and the fallout affects everyone around them: Leon, their families, even Lucia and Oso. \n\nMeanwhile Matt is trapped in a nightmare, with Avi and the Colombians in his house and still no sign of Teddy or the money.",
+      "small": "With resentment between Franklin and Kevin reaching a head, something has to give.",
+      "medium": "With resentment between Franklin and Kevin reaching a head, something has to give, and the fallout affects everyone around them.",
+      "editorial": "With resentment reaching a head, something has to give, and the fallout affects everyone."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0qs0",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2364,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2209,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2209,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "41 mins",
+        "value": "PT40M54.040S"
+      },
+      "guidance": {
+        "id": "L3V2",
+        "text": {
+          "large": "Contains very strong language and prolonged violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and prolonged violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:16:59Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "credits_start": 2365,
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "Aftermath",
+    "audio_described": false,
+    "parent_position": 9,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "9/10 Aftermath. Franklin and Kevin are at war",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p06m0r09",
+    "live": false,
+    "type": "episode",
+    "title": "Snowfall",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/1280x720/p06n1bt9.jpg"
+    },
+    "labels": {
+      "category": "Crime Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0991bqd",
+    "guidance": true,
+    "subtitle": "Series 2: 10. Education",
+    "synopses": {
+      "large": "With Franklin in custody it feels like everything he’s built could be in jeopardy, and he meets old faces in prison who hold a grudge. Gears are turning behind the scenes to try and secure his release, but can he get himself back on the outside before being in prison kills him?",
+      "small": "With Franklin in custody it feels like everything he's built could be in jeopardy.",
+      "medium": "With Franklin in custody it feels like everything he's built could be in jeopardy, and he meets old faces in prison who hold a grudge.",
+      "editorial": "Franklin meets old faces with a grudge. Can he get back outside before he dies inside?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p06m0r3c",
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2292,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2144,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2144,
+          "system": "dax"
+        }
+      ],
+      "download": false,
+      "duration": {
+        "text": "40 mins",
+        "value": "PT39M41.880S"
+      },
+      "guidance": {
+        "id": "L3V1",
+        "text": {
+          "large": "Contains very strong language and some violent scenes.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some violence."
+        }
+      },
+      "availability": {
+        "end": "2019-01-07T23:35:00Z",
+        "start": "2018-10-15T10:17:05Z",
+        "remaining": {
+          "text": "Available for 2 months"
+        }
+      },
+      "first_broadcast": "6 Oct 2018"
+    }],
+    "parent_id": "p06lf2vk",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "drama-crime"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "6 Oct 2018",
+    "related_links": [],
+    "original_title": "Education",
+    "audio_described": false,
+    "parent_position": 10,
+    "requires_sign_in": true,
+    "release_date_time": "2018-10-06T00:00:00.000Z",
+    "editorial_subtitle": "10/10 Education. Could all Franklin’s worked for be at risk?",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  }
+]

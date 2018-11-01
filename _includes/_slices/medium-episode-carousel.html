@@ -1,0 +1,8 @@
+<div class="carousel medium" data-id="{{include.data}}">
+  <div class="carousel-title paragon">{{include.title}}</div>
+  <div class="carousel-content">
+    {% for item in site.data[include.data] %}
+      {% include _items/medium-episode-content-item.html %}
+    {% endfor %}
+  </div>
+</div>

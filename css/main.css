@@ -1,0 +1,343 @@
+.tv {
+  position: fixed;
+  width: 1920px;
+  height: 1080px;
+  left: 50%;
+  top: 50%;
+  margin: -540px 0 0 -960px;
+  overflow: hidden;
+}
+
+.TLEO {
+  background-color: #10101C;
+  color: #EBEBEB;
+  padding: 0 112px;
+}
+
+.container {
+  transform: translateY(0px);
+}
+
+/* Font sizes */
+.trafalgar {
+  font-size: 54px;
+  line-height: 62px;
+}
+
+.paragon {
+  font-size: 42px;
+  line-height: 54px;
+}
+
+.double-pica {
+  font-size: 34px;
+  line-height: 42px;
+}
+
+.great-primer {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.body-copy {
+  font-size: 28px;
+  line-height: 38px;
+}
+
+.long-primer {
+  font-size: 26px;
+  line-height: 34px;
+}
+
+.brevier {
+  font-size: 22px;
+  line-height: 26px;
+}
+
+/* Slices */
+
+.slice-title {
+    margin-bottom: 24px;
+}
+
+.slice-title.long-primer {
+    margin-bottom: 24px;
+}
+
+.pagination .slice-title {
+  color: #B2B7C4;
+}
+
+.carousel {
+  transform: translateX(0);
+}
+
+.carousel-content {
+  font-size: 0px;
+}
+
+.grid {
+  margin-top: 0px;
+}
+
+.grid-content {
+  font-size: 0px;
+}
+
+.page1 {
+  display: block;
+}
+
+.page2 {
+  display: none;
+}
+
+.page3 {
+  display: none;
+}
+
+.page4 {
+  display: none;
+}
+
+.pagination {
+  position: relative;
+  color: #B2B7C4;
+}
+
+.pageText {
+  display: none;
+}
+
+.lastFocus .pageText {
+  display: inline-block;
+}
+
+.TLE0-header {
+  height: 675px;
+  padding-top: 96px;
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+.TLEO-text {
+  vertical-align: bottom;
+  width: 720px;
+  position: relative;
+}
+
+.TLEO-image {
+    position: absolute;
+    left: -112px;
+    transform: translateY(0px);
+    width: 1920px;
+    height: 675px;
+    top: 0px;
+    z-index: -1;
+    opacity: 1;
+}
+
+.TLEO-image img {
+  height: 100%;
+  position: absolute;
+  right: 0;
+}
+
+.TLEO-label {
+  margin-bottom: 12px;
+}
+
+.TLEO-title {
+  margin-bottom: 12px;
+}
+
+.TLEO-synopsis {
+  color: #B2B7C4;
+}
+
+.TLEO-buttons {
+  position: relative;
+  margin-top: 28px;
+}
+
+.PGV-header {
+  padding-top: 100px;
+  margin-bottom: 32px;
+}
+
+.PGV-title {
+  margin-bottom: 32px;
+}
+
+.pagination-info {
+  position: absolute;
+  right: 0;
+  top: 12px;
+  text-align: right;
+}
+
+/* Content items */
+
+.wrapper {
+}
+
+.wrapper.medium {
+  height: 354px;
+  width: 400px;
+  display: inline-block;
+  position: relative;
+  margin: 0 24px 24px 0;
+  background-color: #10101C;
+}
+
+.content-image {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: inherit;
+  height: 225px;
+}
+
+.content-image img {
+  width: 100%;
+}
+
+.content-grad {
+  background: linear-gradient(to bottom, rgba(29,28,46,0) 0%,rgba(29,28,46,0.5) 32%,rgba(29,28,46,1) 100%);
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: inherit;
+}
+
+.content-icon {
+  width: 66px;
+  height: 66px;
+  text-align: center;
+  background-color: #EB4997;
+  display: none;
+  padding-top: 16px;
+  margin-bottom: 12px;
+}
+
+.content-text {
+  bottom: 0;
+  height: 126px;
+  position: absolute;
+  width: 100%;
+  padding: 12px;
+  vertical-align: top;
+}
+
+.content-tite {
+  display: block;
+}
+
+.content-subtitle {
+  display: inline-block;
+  color: #B2B7C4;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Buttons */
+
+.button {
+  background-color: #1D1C2E;
+  padding: 18px 24px;
+  display: inline-block;
+  margin-right: 18px;
+}
+
+.icon_focus {
+  margin-right: 16px;
+  display: none;
+}
+
+.icon_unfocus {
+  margin-right: 16px;
+  display: inline-block;
+}
+
+/* Focus states */
+
+.wrapper.medium.focus {
+  margin: 0 4px 24px -20px;
+  width: 440px;
+  background-color: #1D1C2E;
+}
+
+.focus .content-image {
+  border-top: solid 6px #EB4997;
+}
+
+.focus .content-image img {
+  margin-top: -12px;
+}
+
+.focus .content-grad {
+  opacity: 1;
+}
+
+.focus .content-text {
+  height: auto;
+}
+
+.focus .content-icon {
+  display: inline-block;
+}
+
+.focus .content-subtitle {
+  display: block;
+  vertical-align: bottom;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: none;
+}
+
+.button.focus  {
+  /* background-color: #EB4997; */
+  color: #EBEBEB;
+  border-top: solid 6px #EB4997;
+  padding-top: 12px;
+}
+
+.button.focus .pageText {
+  display: inline-block;
+}
+
+.focus .icon_focus {
+  margin-right: 16px;
+  display: inline-block;
+}
+
+.focus .icon_unfocus {
+  margin-right: 16px;
+  display: none;
+}
+
+/* TLEO Header overrides */
+/*
+.grid {
+    margin-top: -18px;
+}
+
+.pagination {
+  bottom: 40px;
+}
+
+.TLE0-header {
+  height: 880px;
+  padding-top: 210px;
+}
+
+.TLEO-image {
+  height: 744px;
+}
+
+.TLEO-text {
+} */

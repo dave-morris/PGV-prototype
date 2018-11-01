@@ -1,0 +1,15 @@
+[{
+  "title": "Doctor Who",
+  "synopses": {
+    "small": "Two women go head to head in an epic game of cat and mouse.",
+    "medium": "Killing Eve topples the typical spy-action thriller as two fiercely intelligent women, equally obsessed with each other, go head to head in an epic game of cat and mouse.",
+  },
+  "images": {
+    "standard": "https://ichef.bbci.co.uk/images/ic/1920x1080/p06kbtc9.jpg",
+  },
+  "labels": {
+    "category": "Drama"
+  },
+  "episodes": "8",
+  "availability": "Available for over a year",
+}]
