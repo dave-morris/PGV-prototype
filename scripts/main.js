@@ -66,7 +66,11 @@ $(document).ready(function() {
 
         if ($('.focus').is(':nth-child(4n + 1)')) {
 
+          var adjust = containerPositionY + parseInt($('.focus').outerHeight(true));
+
           //Do nothing
+          $('.wrapper.focus').removeClass('focus').prev().addClass('focus');
+          $('.container').css('transform', 'translateY(' + adjust + 'px)');
 
         } else {
 
@@ -176,7 +180,12 @@ $(document).ready(function() {
 
         if ($('.focus').is(':nth-child(4n + 4)')) {
 
+          var adjust = containerPositionY - parseInt($('.focus').outerHeight(true));
+
           //Do nothing
+          $('.wrapper.focus').removeClass('focus').next().addClass('focus');
+          $('.container').css('transform', 'translateY(' + adjust + 'px)');
+
 
         } else {
 
