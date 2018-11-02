@@ -425,6 +425,67 @@ $(document).ready(function() {
 
   }
 
+  function goBack() {
+
+    if ($('.pagination').hasClass('active')) {
+
+      var focusIndex = $('.focus').index();
+
+      if (focusIndex > 0) {
+
+        //Remove focus
+        $('.wrapper.focus').removeClass('focus').addClass('lastFocus');
+        //Remove active
+        $('.active').removeClass('active')
+        $('.page1').addClass('active');
+        returnFocus();
+
+      }
+
+    } else if ($('.PGV-header').hasClass('active')) {
+
+      var focusIndex = $('.focus').index();
+
+      if (focusIndex > 0) {
+
+        //Remove focus
+        $('.wrapper.focus').removeClass('focus');
+        returnFocus();
+
+        //reset view
+        $('.container').css('transform', 'translateY(0px)');
+        $('.episode-count').text('1–40');
+        $('.grid.medium').hide();
+        $('.grid.medium').eq(0).show();
+
+      }
+
+    } else if ($('.grid').hasClass('active')) {
+
+      var focusIndex = $('.focus').index();
+
+      if (focusIndex > 0) {
+
+        $('.wrapper.focus').removeClass('focus');
+        $('.grid.active .wrapper').eq(0).addClass('focus');
+        $('.container').css('transform', 'translateY(0px)');
+
+      } else {
+
+        //Remove focus
+        $('.wrapper.focus').removeClass('focus').addClass('lastFocus');
+        //Remove active
+        $('.active').removeClass('active');
+        $('.PGV-header').addClass('active');
+
+        returnFocus();
+
+      }
+
+    }
+
+  }
+
   // On *any* keydown event
   $(document).keyup(function(e) {
 
